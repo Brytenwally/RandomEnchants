@@ -73,4 +73,4 @@ UPDATE `item_template`
 SET `RandomSuffix` = 50000, 
     `RandomProperty` = 0 
 WHERE `class` IN (2, 4) 
-AND `Quality` IN (3, 4);
+AND `Quality` IN (2, 3, 4);
