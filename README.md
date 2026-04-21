@@ -6,7 +6,7 @@ Azerothcore
 
 HOW TO INSTALL:
 
-Run the SQL query in your acore_world database to populate it with items
+Run the SQL query in your acore_world database
 
 Place the MPQ file in the Data folder of your WoW CLIENT
 
